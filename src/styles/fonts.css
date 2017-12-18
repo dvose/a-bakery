@@ -1,0 +1,29 @@
+@font-face {
+    font-family:"GoodTimeGrotesk";
+    src: url("../assets/fonts/GoodTime/MADEGoodTimeGrotesk.eot?") format("eot"),
+        url("../assets/fonts/GoodTime/MADEGoodTimeGrotesk.woff") format("woff"),
+        url("../assets/fonts/GoodTime/MADEGoodTimeGrotesk.ttf") format("truetype"),
+        url("../assets/fonts/GoodTime/MADEGoodTimeGrotesk.svg#Rudiment") format("svg");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"GoodTimeScript";
+    src: url("../assets/fonts/GoodTime/MADEGoodTimeScript.eot?") format("eot"),
+        url("../assets/fonts/GoodTime/MADEGoodTimeScript.woff") format("woff"),
+        url("../assets/fonts/GoodTime/MADEGoodTimeScript.ttf") format("truetype"),
+        url("../assets/fonts/GoodTime/MADEGoodTimeScript.svg#Rudiment") format("svg");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family: 'Bazar';
+    src: url('../assets/fonts/Bazar/Bazar.eot');
+    src: url('../assets/fonts/Bazar/Bazar.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Bazar/Bazar.woff') format('woff'),
+        url('../assets/fonts/Bazar/Bazar.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
